@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cFFebdec2Vanilla+ Emotes|r |cFFFFFFFF[v0.1.1]|r
+## Notes: Emotes for server Vanilla Plus.
+## Author: Johnny Gat
+## Version: 0.1.1
+
+V+EmotesRU.lua
